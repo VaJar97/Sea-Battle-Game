@@ -1,6 +1,6 @@
 # First study project
 
-My first steps in Java! 
+My first steps in Java. 
 
 ver 1. Simple game from book "HeadFirst Java";
 
