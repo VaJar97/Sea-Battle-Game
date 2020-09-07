@@ -1,5 +1,7 @@
 # Studing-Project
 
-My first steps in Java
+My first steps in Java. 
 
-Simple game from book "HeadFirstJava"
+ver 1. Simple game from book "HeadFirst Java".
+ver 2. Last book's version of the game.
+ver 3. My upgrade. Now, it's Sea Battle Game, with GUI and AI-enemy. 
