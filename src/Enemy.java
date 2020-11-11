@@ -55,7 +55,7 @@ class Enemy {
             while (x < shipSize) {
                 grid[coords[x]] = 1;
                 enemyShips.add(coords[x]);
-                System.out.println(coords[x]);
+                //System.out.println(coords[x]);
                 x++;
             }
         }
